@@ -10,4 +10,4 @@ Still valid: cf. [Stack Overflow: Empty comments in Angular application](https:/
 
 ## The problem
 
-Not every HTML parser implements [the optionality for a text](https://html.spec.whatwg.org/multipage/syntax.html#comments) between `<!--` and `-->` in a way that `<!----> is recognized as `<!--` immediately followed by `-->`.
+Not every HTML parser implements [the optionality for a text](https://html.spec.whatwg.org/multipage/syntax.html#comments) between `<!--` and `-->` in a way that `<!---->` is recognized as `<!--` immediately followed by `-->`.
